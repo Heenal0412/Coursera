@@ -1,0 +1,57 @@
+h1{
+	font-family: cursive;
+	text-align: center;
+	margin-top: 60px;
+}
+
+div h1{
+	border-top: 100px;
+}
+
+.row{
+	text-align: right;
+	padding: 50px;
+}
+
+.row div{
+	background-color: grey;
+	border: 3px solid black;
+	height: 200%;
+	margin: 5px;
+	width: 31%;
+	margin-top: 20;
+	font-family: serif bold;
+}
+
+p{
+	text-align: left;
+	font-family: sans-serif;
+}
+
+b{
+	text-align: right;
+}
+
+#one{
+	background-color: pink;
+	width: 20%;
+	border: 2px solid black;
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
+#two{
+	background-color: red;
+	width: 20%;
+	border: 2px solid black;
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
+#three{
+	background-color: yellow;
+	width: 20%;
+	border: 2px solid black;
+	padding-left: 30px;
+	padding-right: 30px;
+}
